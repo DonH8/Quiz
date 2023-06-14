@@ -72,6 +72,7 @@ namespace Quiz
                 else { Console.WriteLine("\n" + "Pergjigjja jo e sakte" + "\n"); }
 
             }
+            Console.WriteLine("\n" + "Numri i pergjigjjeve te sakta: " + countCorrect);
             timerTask.Wait();
         }
         static async void StartTimer()
