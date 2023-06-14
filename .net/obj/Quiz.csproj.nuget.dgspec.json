@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quiz\\Quiz\\Quiz.csproj": {}
+    "c:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quizi\\.net\\Quiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quiz\\Quiz\\Quiz.csproj": {
+    "c:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quizi\\.net\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quiz\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "c:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quizi\\.net\\Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "C:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quiz\\Quiz\\Quiz.csproj",
+        "projectPath": "c:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quizi\\.net\\Quiz.csproj",
         "packagesPath": "C:\\Users\\Abacus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quiz\\Quiz\\obj\\",
+        "outputPath": "c:\\Users\\Abacus\\Desktop\\Projekte e Fakultetit\\Polymaths\\Quizi\\.net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abacus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,12 +50,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.18, 6.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
